@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.Catalogue-Container a {
+    font-family: 'Bebas Neue', cursive;
+}
+.Catalogue-Container{
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 20px;
+}
+.home-title {
+    text-align: center;
+    margin-top: 7%;
+}
+.Catalogue-Fights li img{
+    width: 250px;
+    border-radius: 5px;
+    height: auto;
+}
+.Catalogue-Fights a {
+    color: black;
+}
+
+.Catalogue-Fights li{
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    border: 2px transparent;
+    display: inline-block;
+    border-radius: 10px;
+}
