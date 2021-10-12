@@ -8,6 +8,10 @@ export default function Boxing() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://boxemag.com/wp-content/uploads/2021/10/resultats-fury-wilder.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/4jy3q3n4qe9b" target="_blank">TYSON FURY VS DEONTAY WILDER - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://image.discovery.indazn.com/eu/v2/eu/image?id=815573573351_image-header_pIt_1631435635000&quality=70" alt="Error" />
                         <h2><a href="https://dood.ws/d/xcxlsgjl1guv" target="_blank">DYLAN CHARRAT VS KERMAN LEJARRAGA - FULL FIGHT</a></h2>
                     </li>

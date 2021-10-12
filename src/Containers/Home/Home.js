@@ -11,6 +11,10 @@ export default function home() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://boxemag.com/wp-content/uploads/2021/10/resultats-fury-wilder.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/4jy3q3n4qe9b" target="_blank">TYSON FURY VS DEONTAY WILDER - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://www.fabutainment.com/wp-content/uploads/2021/10/C07_0162.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/lucgu7o398b1" target="_blank">[BellatorMMA] LUKE TRAINER VS YANNICK BAHATI - FULL FIGHT</a></h2>
                     </li>
