@@ -11,7 +11,7 @@ export default function home() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
-                        <img src="https://boxemag.com/wp-content/uploads/2021/10/resultats-fury-wilder.jpg" alt="Error" />
+                        <img src="https://as01.epimg.net/en/imagenes/2021/10/10/other_sports/1633819280_437625_1633842057_noticia_normal_recorte1.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/4jy3q3n4qe9b" target="_blank">TYSON FURY VS DEONTAY WILDER - FULL FIGHT</a></h2>
                     </li>
                     <li>
