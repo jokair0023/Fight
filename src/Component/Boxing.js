@@ -12,6 +12,10 @@ export default function Boxing() {
                         <h2><a href="https://dood.ws/d/4jy3q3n4qe9b" target="_blank">TYSON FURY VS DEONTAY WILDER - FULL FIGHT</a></h2>
                     </li>
                     <li>
+                        <img src="https://images.daznservices.com/di/library/DAZN_News/4e/50/chris-colbert_hveyumm8f0gi13mub5oec431e.jpg?t=1899494298&quality=60&h=450" alt="Error" />
+                        <h2><a href="https://dood.ws/d/rbxiajspy1kr" target="_blank">CHRIS COLBERT VS TUGSTSOGT NYAMBAYAR - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://images.daznservices.com/di/library/DAZN_News/33/33/matchroom-spain_1gi6pr86scnwh1qlea3ge668k4.jpg?t=-1034690261&quality=60&h=450" alt="Error" />
                         <h2><a href="https://dood.ws/d/93ohwa8qtsqq" target="_blank">DUMITRU VICOL VS CYRUS PATTINSON - FULL FIGHT</a></h2>
                     </li>

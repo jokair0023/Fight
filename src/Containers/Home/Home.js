@@ -35,6 +35,10 @@ export default function home() {
                         <h2><a href="https://dood.ws/d/ksbyhmg78f1k" target="_blank">[BellatorMMA] ROBERT WHITEFORD VS ANDREW FISHER - FULL FIGHT</a></h2>
                     </li>
                     <li>
+                        <img src="https://images.daznservices.com/di/library/DAZN_News/4e/50/chris-colbert_hveyumm8f0gi13mub5oec431e.jpg?t=1899494298&quality=60&h=450" alt="Error" />
+                        <h2><a href="https://dood.ws/d/rbxiajspy1kr" target="_blank">CHRIS COLBERT VS TUGSTSOGT NYAMBAYAR - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://image.discovery.indazn.com/eu/v2/eu/image?id=120665157943_image-header_pRow_1631397051000&quality=70" alt="Error" />
                         <h2><a href="https://dood.ws/d/8xevyyhm2w5x" target="_blank">AMY TIMLIN VS MARY ROMERO - FULL FIGHT</a></h2>
                     </li>
