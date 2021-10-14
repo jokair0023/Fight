@@ -3,7 +3,6 @@ import './Home.css';
 
 export default function home() {
 
-
     return (
         <>
             <h1 className="home-title">All fights</h1>
