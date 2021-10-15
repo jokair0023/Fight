@@ -1,6 +1,7 @@
 import React from 'react';
 
 export default function Boxing() {
+    
     return (
         <>
             <h1 className="home-title">Boxing</h1>
