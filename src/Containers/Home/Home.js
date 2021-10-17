@@ -10,6 +10,22 @@ export default function home() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://sportshub.cbsistatic.com/i/2021/10/16/90beaa6c-2c0d-4c58-9a2b-c751a5851ed8/nemkov-anglickas.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/kqxvzt2cky82" target="_blank">VADIM NEMKOV VS JULIUS ANGLICKAS - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/10/ryan-bader-corey-anderson-bellator-268-weigh-ins-1.jpg?w=1000&h=600&crop=1" alt="Error" />
+                        <h2><a href="https://dood.ws/d/4n6m5qig7u4p" target="_blank">RYAN BADER VS COREY ANDERSON - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://cagesidepress.com/wp-content/uploads/2021/10/Bellator-268-77.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/lwnyhb2mq26p" target="_blank">BENSON HENDERSON VS BRENT PRIMUS - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Ffansided.com%2Fwp-content%2Fuploads%2Fimagn-images%2F2018%2F08%2F12064062.jpeg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/qq4cv23l3z9k" target="_blank">HENRY CORRALES VS VLADYSLAV PARUBCHENKO - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1015%2Fr923404_1296x729_16%2D9.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/u219kyvjej3l" target="_blank">ASPEN LADD VS NORMA DUMONT - FULL FIGHT</a></h2>
                     </li>
