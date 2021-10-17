@@ -4,14 +4,19 @@
   box-sizing: border-box;
   padding: 0px;
   margin: 0px;
-  font-family: 'Big Shoulders Stencil Display', cursive;
 }
+
 .ReturnHome{
   color: black;
 }
 
 header{
   background-color: rgb(65, 75, 97);
+  font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+.home-title{
+  font-family: 'Big Shoulders Stencil Display', cursive;
 }
 
 .Barre-Menu{

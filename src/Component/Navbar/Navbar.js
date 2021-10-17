@@ -30,7 +30,7 @@ export default function Navbar() {
                             <Link to="/Boxing">Boxing</Link>
                         </li>
                         <li>
-                            <Link to="/UFC-Fights">UFC Fights</Link>
+                            <Link to="/UFC-Fights">UFC Fight Night</Link>
                         </li>
                         <li>
                             <Link to="/BellatorMMA">Bellator MMA</Link>
