@@ -10,6 +10,22 @@ export default function home() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://pbs.twimg.com/media/FB0uRQtUYAAencK?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/gs65kxfe0ls0" target="_blank">ALEJANDRO BURGOS VS JESSE RODRIGUEZ - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uO-pVgAAUASX?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/h14n4icutl0z" target="_blank">ELWIN SOTO VS JONATHAN GONZALEZ - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uND1UcAM_yK2?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/m6dobu1p43vq" target="_blank">MARC CASTRO VS ANGEL LUNA - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uU6CVgAUfv3C?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/iff1aazs9uyl" target="_blank">ALEJANDRO FRIAS VS BROCK JARVIS - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://sportshub.cbsistatic.com/i/2021/10/16/90beaa6c-2c0d-4c58-9a2b-c751a5851ed8/nemkov-anglickas.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/kqxvzt2cky82" target="_blank">VADIM NEMKOV VS JULIUS ANGLICKAS - FULL FIGHT</a></h2>
                     </li>
@@ -92,14 +108,6 @@ export default function home() {
                     <li>
                         <img src="https://images.daznservices.com/di/library/DAZN_News/33/33/matchroom-spain_1gi6pr86scnwh1qlea3ge668k4.jpg?t=-1034690261&quality=60&h=450" alt="Error" />
                         <h2><a href="https://dood.la/d/0xorgwxhn2a3" target="_blank">ANUAR SALAS VS CRISTOBAL LORENTE - FULL FIGHT</a></h2>
-                    </li>
-                    <li>
-                        <img src="https://images.daznservices.com/di/library/DAZN_News/33/33/matchroom-spain_1gi6pr86scnwh1qlea3ge668k4.jpg?t=-1034690261&quality=60&h=450" alt="Error" />
-                        <h2><a href="https://dood.la/d/myuoaasj70ym" target="_blank">JAYRO DURAN VS KIKO MARTINEZ - FULL FIGHT</a></h2>
-                    </li>
-                    <li>
-                        <img src="https://images.daznservices.com/di/library/DAZN_News/33/33/matchroom-spain_1gi6pr86scnwh1qlea3ge668k4.jpg?t=-1034690261&quality=60&h=450" alt="Error" />
-                        <h2><a href="https://dood.la/d/xcxlsgjl1guv" target="_blank">DYLAN CHARRAT VS KERMAN LEJARRAGA - FULL FIGHT</a></h2>
                     </li>
                 </ul>
             </div>

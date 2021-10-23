@@ -9,6 +9,22 @@ export default function Boxing() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://pbs.twimg.com/media/FB0uRQtUYAAencK?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/gs65kxfe0ls0" target="_blank">ALEJANDRO BURGOS VS JESSE RODRIGUEZ - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uO-pVgAAUASX?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/h14n4icutl0z" target="_blank">ELWIN SOTO VS JONATHAN GONZALEZ - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uND1UcAM_yK2?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/m6dobu1p43vq" target="_blank">MARC CASTRO VS ANGEL LUNA - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://pbs.twimg.com/media/FB0uU6CVgAUfv3C?format=jpg&name=large" alt="Error" />
+                        <h2><a href="https://dood.ws/d/iff1aazs9uyl" target="_blank">ALEJANDRO FRIAS VS BROCK JARVIS - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://as01.epimg.net/en/imagenes/2021/10/10/other_sports/1633819280_437625_1633842057_noticia_normal_recorte1.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/4jy3q3n4qe9b" target="_blank">TYSON FURY VS DEONTAY WILDER - FULL FIGHT</a></h2>
                     </li>
