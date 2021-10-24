@@ -8,6 +8,10 @@ export default function UFC() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.allusanewshub.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fpaulo-costa-vs-marvin-vettori-full-fight-video-highlights.jpg&f=1&nofb=1" alt="Error" />
+                        <h2><a href="https://dood.ws/d/idegburxsu25" target="_blank">MARVIN VETTORI VS PAULO COSTA - MAIN EVENT FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1015%2Fr923404_1296x729_16%2D9.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/u219kyvjej3l" target="_blank">ASPEN LADD VS NORMA DUMONT - FULL FIGHT</a></h2>
                     </li>

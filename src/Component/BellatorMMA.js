@@ -8,6 +8,18 @@ export default function BellatorMMA() {
             <div className="Catalogue-Container">
                 <ul className="Catalogue-Fights">
                     <li>
+                        <img src="https://images.daznservices.com/di/library/DAZN_News/56/66/fedor-emelianenko-tim-johnson-102221-lucasnoonanbellatormma-ftr_1ktg04wpzedxr15kioggg92wj1.jpg?t=-1302176100&quality=60&w=1280&h=720" alt="Error" />
+                        <h2><a href="https://dood.ws/d/qlr3mf3ynivc" target="_blank">TIM JOHNSON VS FEDOR EMELIANENKO - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://ichef.bbci.co.uk/images/ic/1200x675/p09zpvvn.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/l9vulhu86jh2" target="_blank">ANATOLY TOKOV VS SHARAF DAVLATMURODOV - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
+                        <img src="https://cdn.vox-cdn.com/thumbor/8xkNDTdtj5UtGziS_iZpR5v6UK0=/0x0:4212x2205/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22754164/1234365470.jpg" alt="Error" />
+                        <h2><a href="https://dood.ws/d/n12nvn4t04fb" target="_blank">PATRICK PIETILA VS USMAN NURMAGOMEDOV - FULL FIGHT</a></h2>
+                    </li>
+                    <li>
                         <img src="https://sportshub.cbsistatic.com/i/2021/10/16/90beaa6c-2c0d-4c58-9a2b-c751a5851ed8/nemkov-anglickas.jpg" alt="Error" />
                         <h2><a href="https://dood.ws/d/kqxvzt2cky82" target="_blank">VADIM NEMKOV VS JULIUS ANGLICKAS - FULL FIGHT</a></h2>
                     </li>
